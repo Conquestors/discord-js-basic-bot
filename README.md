@@ -1,5 +1,5 @@
 # discord-js-basic-bot
-A basic bot writtin in JavaScript, Discord.JS. This is perfect for starters and for when you want to create a new bot, you have everything ready instead of coding everything
+A basic bot written in Node.js, JavaScript, and Discord.JS. This is perfect for starters and for when you want to create a new bot, you have everything ready instead of coding everything
 again from scratch.
 
 # Included in the Package
