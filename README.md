@@ -8,4 +8,4 @@ again from scratch.
 
 # Use
 Download the code to this repository using the green Download Code button, then download the zip by clicking "Download ZIP."
-Unzip its contents, then open `config.json` with your desired text editor, and change `YOUR-TOKEN` with your personal bot token that can be found in the Discord Developer Portal.
+Unzip its contents, then open `config.json` with your desired text editor, and replace `YOUR-TOKEN` with your personal bot token that can be found in the Discord Developer Portal.
