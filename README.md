@@ -8,7 +8,7 @@ again from scratch.
 
 # Requirements
 - A Windows OS based system
-- Node.js [Download here](https://nodejs.org/)
+- [Node.js](https://nodejs.org/)
 
 # Use
 Download the code to this repository using the green Download Code button, then download the zip by clicking "Download ZIP."
